@@ -1,6 +1,6 @@
 # lcd-short-story
 
-##Abstract
+## Abstract
 #### This project was intented to make a short story on 16x2 LCD Character screen by maniplating the dots on it using drivers made by me whether in MCAL or HAL layers even the main application code.
 ## Components Used
 #### Used components in this project was only 16x2 LCD Char screen and AVR (ATMEGA32)
